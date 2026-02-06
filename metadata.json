@@ -1,0 +1,7 @@
+{
+  "name": "PitchPerfect 2026",
+  "description": "Neural-First sports performance intelligence agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
